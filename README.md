@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexlou93" alt="alexlou93" /></a> </p>
 
-- 🌱 I’m currently learning **Spring boot, Rest APIs, Amazon AWS**
+- 🌱 I’m currently learning **Spring boot, Rest APIs, Microservices, Kafka, Docker, Amazon AWS**
 
 - 👯 I’m looking to collaborate on **Spring boot projects**
 
-- 🤝 I’m looking for help with **Spring boot**
+- 🤝 I’m looking for help with **Spring boot and Microservices**
 
 - 💬 Ask me about **Spring boot**
 
